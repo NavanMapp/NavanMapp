@@ -38,7 +38,7 @@ I'm a **passionate software engineer** with a flair for crafting innovative solu
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/navan-maphalala-65a2b314a )
+- 💼 [LinkedIn](https://www.linkedin.com/in/navan-maphalala-65a2b314a/)
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 📧 [Email](mailto:navanmapp@gmail.com)
 

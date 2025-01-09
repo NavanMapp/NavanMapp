@@ -36,23 +36,11 @@ I'm a **passionate software engineer** with a flair for crafting innovative solu
 
 ---
 
-## 📊 GitHub Stats
-
-### **Most Used Languages**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-### **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/navan-maphalala-65a2b314a/))
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 [Email](mailto:youremail@example.com)
+- 📧 [Email](mailto:navanmapp@gmail.com)
 
 ---
 

@@ -1,4 +1,4 @@
-## Hi there! 👋 Welcome to My GitHub
+## Hi there! 👋 Welcome to Navan Maphalala's GitHub
 
 I'm a **passionate software engineer** with a flair for crafting innovative solutions. With expertise in various technologies, I love building impactful software that solves real-world problems. Let's code something amazing together!
 
